@@ -1,2 +1,2 @@
 # Electrical-Circuits
-These are simple electrical circuits.
+These are simple electrical circuits designed without programming.
